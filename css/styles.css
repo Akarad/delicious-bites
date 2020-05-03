@@ -1,0 +1,17 @@
+.column {
+  float: right;
+  color: #800000;
+}
+
+h1 {
+  color: #BDB76B;
+  text-transform: full-width;
+}
+
+body{
+  background-color: black;
+}
+
+p {
+  color: #F0E68C;
+}
